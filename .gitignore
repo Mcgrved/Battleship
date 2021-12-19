@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/production/classes/
+/Topics/Match results/Check the essay/out/
+/Topics/Match results/Check the essay/out/production/classes/
+/Topics/Match results/Extracting big numbers from a text/out/
+/Topics/Match results/Extracting big numbers from a text/out/production/classes/
+/Topics/Match results/Extracting words from a text/out/
+/Topics/Match results/Extracting words from a text/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Match results/Theory/out/
+/Topics/Match results/Theory/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Patterns and Matcher/Theory/out/
+/Topics/Patterns and Matcher/Theory/out/production/classes/
+/Topics/Replacing characters/Check the essay/out/
+/Topics/Replacing characters/Check the essay/out/production/classes/
+/Topics/Replacing characters/Remove comments/out/
+/Topics/Replacing characters/Remove comments/out/production/classes/
+/Topics/Replacing characters/Remove extra spaces/out/
+/Topics/Replacing characters/Remove extra spaces/out/production/classes/
+/Topics/Replacing characters/Remove HTML tags/out/
+/Topics/Replacing characters/Remove HTML tags/out/production/classes/
+/Topics/Replacing characters/Theory/out/
+/Topics/Replacing characters/Theory/out/production/classes/
